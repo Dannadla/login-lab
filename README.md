@@ -107,5 +107,4 @@ Curso: Ingeniería Web
 Instructor: Ing. Irina Fong
 
 Fecha de ejecución:28/09/2025
- 
->>>>>>> 1d24b2be169957fd2f8a92a6a341c4435203df0d
+
