@@ -84,11 +84,11 @@ Solución: Ejecutar npm run build para compilar los assets en public/build.
 
 # 7. Referencias
 
-Documentación oficial de Laravel
+[Documentación oficial de Laravel](https://laravel.com/docs/12.x)
 
-Laravel Breeze en GitHub
+[Laravel Breeze en GitHub](https://github.com/laravel/breeze)
 
-Foros y preguntas en Stack Overflow
+https://stackoverflow.com/questions/tagged/laravel
 
 # Footer
 Nombre: Danna Dawkins
